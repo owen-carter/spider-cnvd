@@ -1,12 +1,12 @@
 'use strict';
-const fs = require('fs');
-const path = require('path');
-const low = require('lowdb');
-const log4js = require('log4js');
-const cheerio = require('cheerio');
-const request = require('request');
+const fs       = require('fs');
+const path     = require('path');
+const low      = require('lowdb');
+const log4js   = require('log4js');
+const cheerio  = require('cheerio');
+const request  = require('request');
 const FileSync = require('lowdb/adapters/FileSync');
-const adapter = new FileSync(path.join(__dirname, 'data', 'db.json'));
+const adapter  = new FileSync(path.join(__dirname, 'data', 'db.json'));
 
 
 const logger = log4js.getLogger();
@@ -15,41 +15,72 @@ logger.level = 'debug';
 class Spider {
 
     constructor() {
-        this.db = '';
+        this.db        = '';
         this.storeFile = './data/db.csv';
-        this.header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36'}
+        this.header    = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36'}
     }
 
     init() {
-        const schema = {
-            meta: {
-                name: 'spider',
-                number: 0,
+        const schema     = {
+            meta  : {
+                name       : 'spider',
+                number     : 0,
                 updatedTime: ''
             },
             images: [
                 {
                     name: '',
-                    src: ''
+                    src : ''
                 }
             ]
         };
-
-        this.db = low(adapter);
+        this.catalogList = [
+            {
+                name  : "WEB应用漏洞",
+                typeId: "29"
+            },
+            {
+                name  : "安全产品漏洞",
+                typeId: "32"
+            },
+            {
+                name  : "应用程序漏洞",
+                typeId: "28"
+            },
+            {
+                name  : "操作系统漏洞",
+                typeId: "27"
+            },
+            {
+                name  : "数据库漏洞",
+                typeId: "30"
+            },
+            {
+                name  : "网络设备漏洞",
+                typeId: "31"
+            }
+        ];
+        this.db          = low(adapter);
         this.db.defaults(schema).write();
     }
 
-    * urlList() {
-        let i;
-        let baseUrl = 'http://www.meisupic.com/topic.php?topic_id=';
-        for (i = 0; i, 100; i++) {
+    * genCatalogList() {
+        let baseUrl = 'http://www.cnvd.org.cn/flaw/typeResult?typeId=';
+        for (let catalog of this.catalogList) {
+            yield (baseUrl + catalog['typeId']);
+        }
+    }
+
+    * genUrlList(typeId, max) {
+        let baseUrl = `http://www.cnvd.org.cn/flaw/typeResult?typeId=${typeId}&max=20&offset=60`;
+        for (let i = 0; i, max; i++) {
             yield (baseUrl + i)
         }
     }
 
     static curl(url) {
         let reqConfig = {
-            url: url,
+            url   : url,
             method: 'get',
             header: this.header
         };
@@ -64,13 +95,41 @@ class Spider {
         })
     }
 
+    static pipe(url) {
+        let reqConfig = {
+            url   : url,
+            method: 'get',
+            gzip  : true,
+            header: this.header
+        };
+        let chunks    = [];
+        let size      = 0;
+        let result    = '';
+        return new Promise((resolve, reject) => {
+            request(reqConfig)
+                .on('error', (err) => {
+                    logger.error(`pipe file err: ${err}`);
+                    reject(err)
+                })
+                .on('data', (chunk) => {
+                    size += chunk.length;
+                    chunks.push(chunk);
+                })
+                .on('end', () => {
+                    result = Buffer.concat(chunks, size);
+                    resolve(result.toString())
+                });
+        })
+    }
+
+
     static wget(fileName, filePath) {
         let reqConfig = {
-            url: filePath,
+            url   : filePath,
             method: 'get',
             header: this.header
         };
-        let stream = fs.createWriteStream('./images/' + fileName);
+        let stream    = fs.createWriteStream('./images/' + fileName);
         return new Promise((resolve, reject) => {
             request(reqConfig)
                 .on('error', (err) => {
@@ -105,7 +164,7 @@ class Spider {
 
 
     parseHtml(html) {
-        let $ = cheerio.load(html);
+        let $        = cheerio.load(html);
         let hrefList = $('.album_page .glide .slide dl a');
 
         return (Array.from(hrefList)).map((ele) => {
@@ -114,34 +173,58 @@ class Spider {
     }
 
     parseImage(html) {
-        let $ = cheerio.load(html);
-        let nameList = $('.ui_cover dl');
-        let srcList = $('.imgList .imgItem a img');
+        let $           = cheerio.load(html);
+        let nameList    = $('.ui_cover dl');
+        let srcList     = $('.imgList .imgItem a img');
         let imageLength = nameList.length;
-        let imageList = [];
+        let imageList   = [];
 
         for (let i = 0; i < imageLength; i++) {
             imageList.push({
                 name: $(nameList[i]).attr('title'),
-                src: $(srcList[i]).attr('data-original')
+                src : $(srcList[i]).attr('data-original')
             })
         }
 
         return imageList;
     }
 
+    parseCatalogPage(html) {
+        console.dir(html)
+        let $              = cheerio.load(html);
+        let pageComponents = $("#flawList > div > a");
+        for (let page of (Array.from(pageComponents))) {
+            console.dir($(page).attr('text'))
+        }
+        return '';
+    }
+
+    parseListPage(html) {
+
+    }
+
+    parseInfoPage(html) {
+
+    }
+
+    save() {
+
+    }
+
     async bootstrap() {
-        for (let url of this.urlList()) {
-            let listPage = await Spider.curl(url);
-            logger.info(`get a page ${url}`);
-            let pageUrlList = this.parseHtml(listPage);
-            for (let src of pageUrlList) {
-                let imagesPage = await Spider.curl(src);
-                logger.info(`get a image page ${src}`);
-                let imageEntityList = this.parseImage(imagesPage);
-                for (let img of imageEntityList) {
-                    await this.saveImageInfo(img);
-                    await this.downImage(img);
+        for (let url of this.genCatalogList()) {
+            logger.info(`get a page from ${url}`);
+            let catalogIndexPage = await Spider.pipe(url);
+            console.dir(catalogIndexPage);
+            let allPageNumber = this.parseCatalogPage(catalogIndexPage);
+            for (let src of this.genUrlList(allPageNumber)) {
+                let listPage = await Spider.curl(src);
+                logger.info(`get a list page ${src}`);
+                let urlList = this.parseListPage(listPage);
+                for (let u of urlList) {
+                    let infoPage = await Spider.curl(u)
+                    let info     = this.parseInfoPage(infoPage);
+                    this.save(info);
                     logger.info(`save and down the file(${img.name})`)
                 }
             }
