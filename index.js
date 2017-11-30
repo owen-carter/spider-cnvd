@@ -109,24 +109,32 @@ class Spider {
         };
     }
 
-
-    async bootstrap() {
+    async getAllUrl() {
+        let allPageUrlList = [];
         for (let url of this.urlList()) {
             let listPage = await Spider.curl(url);
             logger.info(`get a page ${url}`);
             let pageUrlList = this.parseHtml(listPage);
-
-            Promise.map(pageUrlList, (page) => {
-                return this.parseHole(page)
-            }, this.concurrency).then(() => {
-                logger.info(`download ${pageUrlList.length} images`);
-            });
+            for (let page in pageUrlList) {
+                allPageUrlList.push(page.src)
+                logger.info(allPageUrlList.length)
+            }
         }
+        return allPageUrlList;
     }
 
-    run() {
-        this.init();
-        this.bootstrap();
+
+    async bootstrap(pageUrlList) {
+        Promise.map(pageUrlList, (page) => {
+            return this.parseHole(page)
+        }, this.concurrency).then(() => {
+            logger.info(`download ${pageUrlList.length} images`);
+        });
+    }
+
+    async run() {
+        let result = await this.getAllUrl();
+        await this.bootstrap(result);
     }
 }
 
