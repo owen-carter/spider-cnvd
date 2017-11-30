@@ -86,8 +86,13 @@ class Spider {
     }
 
     parseHolePage(html) {
-        let $     = cheerio.load(html);
-        let title = $('body > div.container.m_t_10 > div > div.fl.w770 > div.detail_xq.w770 > h2').text();
+        let $       = cheerio.load(html);
+        let title   = $('body > div.container.m_t_10 > div > div.fl.w770 > div.detail_xq.w770 > h2').text();
+        let cnnvdId = $('body > div.container.m_t_10 > div > div.fl.w770 > div.detail_xq.w770 > ul > li:nth-child(1) > span').text();
+        let cveId = $('body > div.container.m_t_10 > div > div.fl.w770 > div.detail_xq.w770 > ul > li:nth-child(3) > a').text();
+
+        let desc = $('body > div.container.m_t_10 > div > div.fl.w770 > div:nth-child(3)').text();
+        let ref = $('body > div.container.m_t_10 > div > div.fl.w770 > div:nth-child(5)').text();
 
         console.dir(title);
 
