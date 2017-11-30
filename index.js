@@ -17,7 +17,7 @@ class Spider {
 
     constructor() {
 
-        this.concurrency = {concurrency: 30};
+        this.concurrency = {concurrency: 100};
 
         this.pageList = [];
 
@@ -45,12 +45,13 @@ class Spider {
         this.db.defaults(schema).write();
     }
 
-    * urlList() {
-        let i;
+    urlList() {
+        let result  = [];
         let baseUrl = 'http://www.cnnvd.org.cn/web/vulnerability/querylist.tag?pageno=';
-        for (i = 0; i < 10205; i++) {
-            yield (baseUrl + i + "&repairLd=")
+        for (let i = 0; i < 10205; i++) {
+            result.push(`${baseUrl}${i}&repairLd=`)
         }
+        return result;
     }
 
     static curl(url) {
@@ -77,6 +78,7 @@ class Spider {
             try {
                 let response = await Spider.curl(page.src);
                 this.parseHolePage(response)
+                resolve()
             } catch (err) {
                 reject(err)
             }
@@ -101,6 +103,7 @@ class Spider {
             try {
                 let response = await Spider.curl(page);
                 this.parseListUrl(response)
+                resolve()
             } catch (err) {
                 reject(err)
             }
@@ -138,7 +141,7 @@ class Spider {
 
     async run() {
         await this.getAllUrl();
-        await this.bootstrap();
+        // await this.bootstrap();
     }
 }
 
