@@ -17,7 +17,9 @@ class Spider {
 
     constructor() {
 
-        this.concurrency = {concurrency: 50};
+        this.concurrency = {concurrency: 30};
+
+        this.pageList = [];
 
         this.db        = '';
         this.storeFile = './data/db.csv';
@@ -81,60 +83,62 @@ class Spider {
         })
     }
 
-
-    parseHtml(html) {
-        let $           = cheerio.load(html);
-        let nameList    = $('.list_list ul li #vulner_0 a');
-        let imageLength = nameList.length;
-        let imageList   = [];
-
-        for (let i = 0; i < imageLength; i++) {
-            imageList.push({
-                name: $(nameList[i]).text(),
-                src : "http://www.cnnvd.org.cn/" + $(nameList[i]).attr('href')
-            })
-        }
-
-        return imageList;
-    }
-
     parseHolePage(html) {
         let $     = cheerio.load(html);
         let title = $('body > div.container.m_t_10 > div > div.fl.w770 > div.detail_xq.w770 > h2').text();
 
-        console.dir(title)
+        console.dir(title);
 
         return {
             title
         };
     }
 
-    async getAllUrl() {
-        let allPageUrlList = [];
-        for (let url of this.urlList()) {
-            let listPage = await Spider.curl(url);
-            logger.info(`get a page ${url}`);
-            let pageUrlList = this.parseHtml(listPage);
-            for (let page in pageUrlList) {
-                allPageUrlList.push(page.src)
-                logger.info(allPageUrlList.length)
+
+    parseList(page) {
+        return new Promise(async (resolve, reject) => {
+            logger.info(`start curl ${page}...`);
+            try {
+                let response = await Spider.curl(page);
+                this.parseListUrl(response)
+            } catch (err) {
+                reject(err)
             }
+        })
+    }
+
+    parseListUrl(html) {
+        let $           = cheerio.load(html);
+        let nameList    = $('.list_list ul li #vulner_0 a');
+        let imageLength = nameList.length;
+
+
+        for (let i = 0; i < imageLength; i++) {
+            this.pageList.push({
+                name: $(nameList[i]).text(),
+                src : "http://www.cnnvd.org.cn/" + $(nameList[i]).attr('href')
+            })
         }
-        return allPageUrlList;
+
     }
 
 
-    async bootstrap(pageUrlList) {
-        Promise.map(pageUrlList, (page) => {
+    async getAllUrl() {
+        return Promise.map(this.urlList(), (page) => {
+            return this.parseList(page)
+        }, this.concurrency)
+    }
+
+
+    async bootstrap() {
+        return Promise.map(this.pageList, (page) => {
             return this.parseHole(page)
-        }, this.concurrency).then(() => {
-            logger.info(`download ${pageUrlList.length} images`);
-        });
+        }, this.concurrency)
     }
 
     async run() {
-        let result = await this.getAllUrl();
-        await this.bootstrap(result);
+        await this.getAllUrl();
+        await this.bootstrap();
     }
 }
 
