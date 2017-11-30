@@ -140,7 +140,11 @@ class Spider {
     }
 
     async run() {
-        await this.getAllUrl();
+        try {
+            await this.getAllUrl();
+        } catch (err) {
+            logger.error(err)
+        }
         // await this.bootstrap();
     }
 }
