@@ -17,7 +17,7 @@ class Spider {
 
     constructor() {
 
-        this.concurrency = {concurrency: 50};
+        this.concurrency = {concurrency: 30};
 
         this.pageList = [];
 
