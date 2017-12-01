@@ -67,6 +67,7 @@ class Spider {
             request(reqConfig, (err, res, body) => {
                 if (err) {
                     logger.error(`curl url err:${err}`);
+                    res.end();
                     reject(err);
                 }
                 resolve(body);
