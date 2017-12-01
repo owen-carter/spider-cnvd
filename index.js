@@ -5,7 +5,7 @@ const low      = require('lowdb');
 const log4js   = require('log4js');
 const cheerio  = require('cheerio');
 const Promise  = require('bluebird');
-const request  = require('request');
+const request  = require('requestretry');
 const FileSync = require('lowdb/adapters/FileSync');
 const adapter  = new FileSync(path.join(__dirname, 'data', 'db.json'));
 
@@ -59,16 +59,19 @@ class Spider {
 
     static curl(url) {
         let reqConfig = {
-            url   : url,
-            method: 'get',
-            header: this.header
+            url          : url,
+            method       : 'get',
+            maxAttempts  : 5,
+            retryDelay   : 5000,
+            retryStrategy: request.RetryStrategies.HTTPOrNetworkError,
+            header       : this.header
         };
         return new Promise((resolve, reject) => {
             request(reqConfig, (err, res, body) => {
                 if (err) {
                     logger.error(`curl url err:${err}`);
                     res.end();
-                    reject(err);
+                    reject(void(0));
                 }
                 resolve(body);
             })
