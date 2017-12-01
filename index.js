@@ -10,6 +10,8 @@ const FileSync = require('lowdb/adapters/FileSync');
 const adapter  = new FileSync(path.join(__dirname, 'data', 'db.json'));
 
 
+require("http").globalAgent.maxSockets = Infinity;
+
 const logger = log4js.getLogger();
 logger.level = 'debug';
 
