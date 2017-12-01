@@ -18,7 +18,7 @@ logger.level = 'debug';
 class Spider {
 
     constructor() {
-        this.concurrency = {concurrency: 20};
+        this.concurrency = {concurrency: 10};
         this.pageList    = [];
         this.db          = '';
         this.storeFile   = './data/db.csv';
