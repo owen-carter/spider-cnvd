@@ -142,10 +142,8 @@ class Spider {
             entity,
             bugFix,
         };
-
-        this.db.get('holeList').push(capsule).write();
         try {
-            let result = await HoleModel.create(capsule);
+            await HoleModel.create(capsule);
             logger.info(`record a ${title}`)
         } catch (err) {
             logger.error(err)
