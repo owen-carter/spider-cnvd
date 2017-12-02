@@ -2,8 +2,8 @@
   "meta": {
     "name": "spider",
     "number": 0,
-    "startTime": "2017-12-01T10:15:56.157Z",
-    "endTime": ""
+    "startTime": "2017-12-02T04:58:44.601Z",
+    "endTime": "2017-12-02T04:58:47.911Z"
   },
   "list": [
     {
@@ -209,7 +209,1162 @@
     {
       "name": "CNNVD-201711-1143",
       "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1143"
+    },
+    {
+      "name": "CNNVD-201711-1132",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1132"
+    },
+    {
+      "name": "CNNVD-201711-1131",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1131"
+    },
+    {
+      "name": "CNNVD-201711-1130",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1130"
+    },
+    {
+      "name": "CNNVD-201711-1129",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1129"
+    },
+    {
+      "name": "CNNVD-201711-1128",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1128"
+    },
+    {
+      "name": "CNNVD-201711-1127",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1127"
+    },
+    {
+      "name": "CNNVD-201711-1126",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1126"
+    },
+    {
+      "name": "CNNVD-201711-1125",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1125"
+    },
+    {
+      "name": "CNNVD-201711-1124",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1124"
+    },
+    {
+      "name": "CNNVD-201711-1123",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1123"
+    },
+    {
+      "name": "CNNVD-201711-1152",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1152"
+    },
+    {
+      "name": "CNNVD-201711-1151",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1151"
+    },
+    {
+      "name": "CNNVD-201711-1150",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1150"
+    },
+    {
+      "name": "CNNVD-201711-1149",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1149"
+    },
+    {
+      "name": "CNNVD-201711-1148",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1148"
+    },
+    {
+      "name": "CNNVD-201711-1147",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1147"
+    },
+    {
+      "name": "CNNVD-201711-1146",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1146"
+    },
+    {
+      "name": "CNNVD-201711-1145",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1145"
+    },
+    {
+      "name": "CNNVD-201711-1144",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1144"
+    },
+    {
+      "name": "CNNVD-201711-1143",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1143"
+    },
+    {
+      "name": "CNNVD-201711-1142",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1142"
+    },
+    {
+      "name": "CNNVD-201711-1141",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1141"
+    },
+    {
+      "name": "CNNVD-201711-1140",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1140"
+    },
+    {
+      "name": "CNNVD-201711-1139",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1139"
+    },
+    {
+      "name": "CNNVD-201711-1138",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1138"
+    },
+    {
+      "name": "CNNVD-201711-1137",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1137"
+    },
+    {
+      "name": "CNNVD-201711-1136",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1136"
+    },
+    {
+      "name": "CNNVD-201711-1135",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1135"
+    },
+    {
+      "name": "CNNVD-201711-1134",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1134"
+    },
+    {
+      "name": "CNNVD-201711-1133",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1133"
+    },
+    {
+      "name": "CNNVD-201711-1112",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1112"
+    },
+    {
+      "name": "CNNVD-201711-1111",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1111"
+    },
+    {
+      "name": "CNNVD-201711-1110",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1110"
+    },
+    {
+      "name": "CNNVD-201711-1109",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1109"
+    },
+    {
+      "name": "CNNVD-201709-455",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201709-455"
+    },
+    {
+      "name": "CNNVD-201709-454",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201709-454"
+    },
+    {
+      "name": "CNNVD-201707-108",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201707-108"
+    },
+    {
+      "name": "CNNVD-201707-107",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201707-107"
+    },
+    {
+      "name": "CNNVD-201711-731",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-731"
+    },
+    {
+      "name": "CNNVD-201711-715",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-715"
+    },
+    {
+      "name": "CNNVD-201711-1122",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1122"
+    },
+    {
+      "name": "CNNVD-201711-1121",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1121"
+    },
+    {
+      "name": "CNNVD-201711-1120",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1120"
+    },
+    {
+      "name": "CNNVD-201711-1119",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1119"
+    },
+    {
+      "name": "CNNVD-201711-1118",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1118"
+    },
+    {
+      "name": "CNNVD-201711-1117",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1117"
+    },
+    {
+      "name": "CNNVD-201711-1116",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1116"
+    },
+    {
+      "name": "CNNVD-201711-1115",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1115"
+    },
+    {
+      "name": "CNNVD-201711-1114",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1114"
+    },
+    {
+      "name": "CNNVD-201711-1113",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1113"
+    },
+    {
+      "name": "CNNVD-201711-1088",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1088"
+    },
+    {
+      "name": "CNNVD-201711-1087",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1087"
+    },
+    {
+      "name": "CNNVD-201711-1086",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1086"
+    },
+    {
+      "name": "CNNVD-201711-1085",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1085"
+    },
+    {
+      "name": "CNNVD-201711-1084",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1084"
+    },
+    {
+      "name": "CNNVD-201711-1083",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1083"
+    },
+    {
+      "name": "CNNVD-201711-1082",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1082"
+    },
+    {
+      "name": "CNNVD-201711-1081",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1081"
+    },
+    {
+      "name": "CNNVD-201711-1080",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1080"
+    },
+    {
+      "name": "CNNVD-201708-1257",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201708-1257"
+    },
+    {
+      "name": "CNNVD-201106-247",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-247"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-246",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-246"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-245",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-245"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-244",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-244"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-243",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-243"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-242",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-242"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-241",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-241"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-240",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-240"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-239",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-239"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-238",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-238"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201711-1055",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1055"
+    },
+    {
+      "name": "CNNVD-201711-1054",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1054"
+    },
+    {
+      "name": "CNNVD-201711-1053",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1053"
+    },
+    {
+      "name": "CNNVD-201711-1052",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1052"
+    },
+    {
+      "name": "CNNVD-201711-1051",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1051"
+    },
+    {
+      "name": "CNNVD-201711-1050",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1050"
+    },
+    {
+      "name": "CNNVD-201711-1049",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1049"
+    },
+    {
+      "name": "CNNVD-201711-1048",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1048"
+    },
+    {
+      "name": "CNNVD-201711-1047",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1047"
+    },
+    {
+      "name": "CNNVD-201711-1046",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1046"
+    },
+    {
+      "name": "CNNVD-201106-205",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-205"
+    },
+    {
+      "name": "CNNVD-201106-204",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-204"
+    },
+    {
+      "name": "CNNVD-201106-196",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-196"
+    },
+    {
+      "name": "gimp ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=gimp"
+    },
+    {
+      "name": "CNNVD-201106-195",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-195"
+    },
+    {
+      "name": "ibm ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=ibm"
+    },
+    {
+      "name": "CNNVD-201106-163",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-163"
+    },
+    {
+      "name": "php ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=php"
+    },
+    {
+      "name": "CNNVD-201106-162",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-162"
+    },
+    {
+      "name": "microsoft ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=microsoft"
+    },
+    {
+      "name": "CNNVD-201106-161",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-161"
+    },
+    {
+      "name": "microsoft ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=microsoft"
+    },
+    {
+      "name": "CNNVD-201106-160",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-160"
+    },
+    {
+      "name": "microsoft ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=microsoft"
+    },
+    {
+      "name": "CNNVD-201106-159",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-159"
+    },
+    {
+      "name": "microsoft ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=microsoft"
+    },
+    {
+      "name": "CNNVD-201106-158",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-158"
+    },
+    {
+      "name": "microsoft ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=microsoft"
+    },
+    {
+      "name": "CNNVD-201106-287",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-287"
+    },
+    {
+      "name": "mozilla ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=mozilla"
+    },
+    {
+      "name": "CNNVD-201106-286",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-286"
+    },
+    {
+      "name": "CNNVD-201106-285",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-285"
+    },
+    {
+      "name": "CNNVD-201106-284",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-284"
+    },
+    {
+      "name": "CNNVD-201106-283",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-283"
+    },
+    {
+      "name": "CNNVD-201106-282",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-282"
+    },
+    {
+      "name": "CNNVD-201106-281",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-281"
+    },
+    {
+      "name": "CNNVD-201106-280",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-280"
+    },
+    {
+      "name": "CNNVD-201106-279",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-279"
+    },
+    {
+      "name": "linux ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=linux"
+    },
+    {
+      "name": "CNNVD-201106-278",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-278"
+    },
+    {
+      "name": "CNNVD-201106-298",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-298"
+    },
+    {
+      "name": " h_peter_an... ",
+      "src": "http://www.cnnvd.org.cn//web/vulnerability/querylist.tag?cpvendor=h_peter_anvin"
+    },
+    {
+      "name": "CNNVD-201106-297",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-297"
+    },
+    {
+      "name": "CNNVD-201106-296",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-296"
+    },
+    {
+      "name": "CNNVD-201106-295",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-295"
+    },
+    {
+      "name": "CNNVD-201106-294",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-294"
+    },
+    {
+      "name": "CNNVD-201106-293",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-293"
+    },
+    {
+      "name": "CNNVD-201106-292",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-292"
+    },
+    {
+      "name": "CNNVD-201106-291",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-291"
+    },
+    {
+      "name": "CNNVD-201106-290",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-290"
+    },
+    {
+      "name": "CNNVD-201106-289",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201106-289"
+    },
+    {
+      "name": "CNNVD-201711-1142",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1142"
+    },
+    {
+      "name": "CNNVD-201711-1141",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1141"
+    },
+    {
+      "name": "CNNVD-201711-1140",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1140"
+    },
+    {
+      "name": "CNNVD-201711-1139",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1139"
+    },
+    {
+      "name": "CNNVD-201711-1138",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1138"
+    },
+    {
+      "name": "CNNVD-201711-1137",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1137"
+    },
+    {
+      "name": "CNNVD-201711-1136",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1136"
+    },
+    {
+      "name": "CNNVD-201711-1135",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1135"
+    },
+    {
+      "name": "CNNVD-201711-1134",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1134"
+    },
+    {
+      "name": "CNNVD-201711-1133",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1133"
+    },
+    {
+      "name": "CNNVD-201711-1132",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1132"
+    },
+    {
+      "name": "CNNVD-201711-1131",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1131"
+    },
+    {
+      "name": "CNNVD-201711-1130",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1130"
+    },
+    {
+      "name": "CNNVD-201711-1129",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1129"
+    },
+    {
+      "name": "CNNVD-201711-1128",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1128"
+    },
+    {
+      "name": "CNNVD-201711-1127",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1127"
+    },
+    {
+      "name": "CNNVD-201711-1126",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1126"
+    },
+    {
+      "name": "CNNVD-201711-1125",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1125"
+    },
+    {
+      "name": "CNNVD-201711-1124",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1124"
+    },
+    {
+      "name": "CNNVD-201711-1123",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1123"
+    },
+    {
+      "name": "CNNVD-201711-1152",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1152"
+    },
+    {
+      "name": "CNNVD-201711-1151",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1151"
+    },
+    {
+      "name": "CNNVD-201711-1150",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1150"
+    },
+    {
+      "name": "CNNVD-201711-1149",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1149"
+    },
+    {
+      "name": "CNNVD-201711-1148",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1148"
+    },
+    {
+      "name": "CNNVD-201711-1147",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1147"
+    },
+    {
+      "name": "CNNVD-201711-1146",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1146"
+    },
+    {
+      "name": "CNNVD-201711-1145",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1145"
+    },
+    {
+      "name": "CNNVD-201711-1144",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1144"
+    },
+    {
+      "name": "CNNVD-201711-1143",
+      "src": "http://www.cnnvd.org.cn//web/xxk/ldxqById.tag?CNNVD=CNNVD-201711-1143"
     }
   ],
-  "holeList": []
+  "holeList": [
+    {
+      "title": "TG Soft Vir.IT eXplorer Lite 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1138",
+      "cveId": " CVE-2017-17050\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tTG Soft Vir.IT eXplorer Lite是一套病毒防护软件。该软件具有防病毒、反间谍软件、恶意软件和病毒查杀等功能。\nTG Soft Vir.IT eXplorer Lite 8.5.42版本中存在安全漏洞。本地攻击者可通过向\\\\.\\Viragtlt发送带有空值的0x82730020 DeviceIoControl请求利用该漏洞造成拒绝服务（空指针逆向引用）。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttp://www.tgsoft.it/tgsoft_home.asp\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:MISC\n链接:https://github.com/k0keoyo/Vir.IT-explorer-Anti-Virus-Null-Pointer-Reference-PoC/tree/master/VirIT_NullPointerDereference_0x82730020\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Linux kernel 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1136",
+      "cveId": " CVE-2017-17053\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tLinux kernel是美国Linux基金会发布的开源操作系统Linux所使用的内核。\nLinux kernel 4.12.10之前的版本中的arch/x86/include/asm/mmu_context.h文件的‘init_new_context’函数存在安全漏洞，该漏洞源于程序没有正确的处理LDT表分配时出现的错误。本地攻击者可借助特制的程序利用该漏洞造成释放后重用。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ccd5b3235180eef3cfec337df1c8554ab151b5cc\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:CONFIRM\n链接:http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=ccd5b3235180eef3cfec337df1c8554ab151b5cc\n\n来源:CONFIRM\n链接:https://github.com/torvalds/linux/commit/ccd5b3235180eef3cfec337df1c8554ab151b5cc\n\n来源:CONFIRM\n链接:https://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.12.10\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "aubio 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1135",
+      "cveId": " CVE-2017-17054\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\taubio是一款使用C语言编写的开源音频分析工具。\naubio 0.4.6版本中的source_wavread.c文件的‘new_aubio_source_wavread()’函数存在安全漏洞。攻击者可借助特制的音频文件利用该漏洞造成拒绝服务（除零错误）。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://aubio.org/\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:MISC\n链接:https://github.com/aubio/aubio/issues/148\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Apple macOS High Sierra Directory Utility组件安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1133",
+      "cveId": " CVE-2017-13872\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tApple macOS High Sierra是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。Directory Utility component是其中的一个目录实用工具。\nApple macOS High Sierra 2017-001之前的版本中的Directory Utility组件存在安全漏洞。攻击者可借助特定的交互利用该漏洞获取管理员访问权限。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://support.apple.com/zh-cn/HT208315\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:MISC\n链接:https://arstechnica.com/information-technology/2017/11/macos-bug-lets-you-log-in-as-admin-with-no-password-required/\n\n来源:MISC\n链接:https://support.apple.com/HT208315\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Cisco产品WebEx Recording Format Player和Advanced Recording Format Player 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1140",
+      "cveId": " CVE-2017-12367\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCisco WebEx Business Suite（WBS30）client等都是美国思科（Cisco）公司的视频会议解决方案的客户端软件。WebEx Recording Format Player（WRF）和Advanced Recording Format Player（ARF）都是使用在其中的会议记录播放器。\n多款Cisco产品中的WRF Player和ARF Player存在拒绝服务漏洞。远程攻击者可借助带有恶意ARF或WRF文件的邮件或URL，并诱使用户加载该文件利用该漏洞造成拒绝服务（崩溃）。以下产品和版本受到影响：Cisco WebEx Business Suite (WBS30) client builds T30.20之前的版本；WebEx Business Suite (WBS31) client builds T31.14.1之前的版本；WebEx Business Suite (WBS32) client builds T32.2之前的版本；WebEx Meetings with client builds prior to T31.14之前的版本；WebEx Meeting Server builds 2.7MR3之前的版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:securitytracker.com\n链接:https://securitytracker.com/id/1039895\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "TG Soft Vir.IT eXplorer Lite 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1139",
+      "cveId": " CVE-2017-17049\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tTG Soft Vir.IT eXplorer Lite是一套病毒防护软件。该软件具有防病毒、反间谍软件、恶意软件和病毒查杀等功能。\nTG Soft Vir.IT eXplorer Lite 8.5.42版本中存在安全漏洞。本地攻击者可通过向\\\\.\\Viragtlt发送带有空值的0x82730010 DeviceIoControl请求利用该漏洞造成拒绝服务（空指针逆向引用）。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttp://www.tgsoft.it/tgsoft_home.asp\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:MISC\n链接:https://github.com/k0keoyo/Vir.IT-explorer-Anti-Virus-Null-Pointer-Reference-PoC/tree/master/VirIT_NullPointerReference_0x82730010\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Cisco产品WebEx Recording Format Player和Advanced Recording Format Player 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1141",
+      "cveId": " CVE-2017-12368\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCisco WebEx Business Suite（WBS30）client等都是美国思科（Cisco）公司的视频会议解决方案的客户端软件。WebEx Recording Format Player（WRF）和Advanced Recording Format Player（ARF）都是使用在其中的会议记录播放器。\n多款Cisco产品中的WRF Player和ARF Player存在远程代码执行漏洞。远程攻击者可借助带有恶意ARF或WRF文件的邮件或URL，并诱使用户加载文件利用该漏洞在目标用户系统上执行任意代码。以下产品和版本受到影响：Cisco WebEx Business Suite (WBS30) client builds T30.20之前的版本；WebEx Business Suite (WBS31) client builds T31.14.1之前的版本；WebEx Business Suite (WBS32) client builds T32.2之前的版本；WebEx Meetings with client builds prior to T31.14之前的版本；WebEx Meeting Server builds 2.7MR3之前的版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:securitytracker.com\n链接:https://securitytracker.com/id/1039895\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Linux kernel 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1137",
+      "cveId": " CVE-2017-17052\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tLinux kernel是美国Linux基金会发布的开源操作系统Linux所使用的内核。\nLinux kernel 4.12.10之前的版本中的kernel/fork.c文件的‘mm_init’函数存在安全漏洞。本地攻击者可借助特制的程序利用该漏洞造成释放后重用。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2b7e8665b4ff51c034c55df3cff76518d1a9ee3a\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:CONFIRM\n链接:http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=2b7e8665b4ff51c034c55df3cff76518d1a9ee3a\n\n来源:CONFIRM\n链接:https://github.com/torvalds/linux/commit/2b7e8665b4ff51c034c55df3cff76518d1a9ee3a\n\n来源:CONFIRM\n链接:https://www.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.12.10\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "WordPress WooCommerce插件路径遍历漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1134",
+      "cveId": " CVE-2017-17058\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t路径遍历\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tWordPress是WordPress软件基金会的一套使用PHP语言开发的博客平台，该平台支持在PHP和MySQL的服务器上架设个人博客网站。WooCommerce plugin是其中的一个免费的电子商务插件。\nWordPress WooCommerce插件3.x之前的版本中存在目录遍历漏洞。攻击者可借助/wp-content/plugins/woocommerce/templates/emails/plain/ URI利用该漏洞访问父目录。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://wordpress.org/plugins/woocommerce\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:MISC\n链接:https://www.exploit-db.com/ghdb/4613/\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Cisco产品WebEx Recording Format Player和Advanced Recording Format Player 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1144",
+      "cveId": " CVE-2017-12371\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCisco WebEx Business Suite（WBS30）client等都是美国思科（Cisco）公司的视频会议解决方案的客户端软件。WebEx Recording Format Player（WRF）和Advanced Recording Format Player（ARF）都是使用在其中的会议记录播放器。\n多款Cisco产品中的WRF Player和ARF Player存在远程代码执行漏洞。远程攻击者可借助带有恶意ARF或WRF文件的邮件或URL，并诱使用户加载该文件利用该漏洞在目标用户系统上执行任意代码。以下产品和版本受到影响：Cisco WebEx Business Suite (WBS30) client builds T30.20之前的版本；WebEx Business Suite (WBS31) client builds T31.14.1之前的版本；WebEx Business Suite (WBS32) client builds T32.2之前的版本；WebEx Meetings with client builds prior to T31.14之前的版本；WebEx Meeting Server builds 2.7MR3之前的版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:securitytracker.com\n链接:https://securitytracker.com/id/1039895\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1146",
+      "cveId": " CVE-2017-15348\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei IPS Module等都是中国华为（Huawei）公司的入侵防御和入侵检测产品。\n多款Huawei产品中存在安全漏洞，该漏洞源于程序没有充分的验证消息中的参数。远程攻击者可通过向目标产品发送特定的MPLS Echo Request消息利用该漏洞造成拒绝服务（设备重启）。以下产品和版本受到影响：Huawei IPS Module V500R001C00版本；NGFW Module V500R001C00版本；NIP6300 V500R001C00版本；NIP6600 V500R001C00版本；Secospace USG6300 V500R001C00版本；Secospace USG6500 V500R001C00版本；USG9500 V500R001C00版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-01-routers-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-routers-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Cisco产品WebEx Recording Format Player和Advanced Recording Format Player 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1143",
+      "cveId": " CVE-2017-12370\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCisco WebEx Business Suite（WBS30）client等都是美国思科（Cisco）公司的视频会议解决方案的客户端软件。WebEx Recording Format Player（WRF）和Advanced Recording Format Player（ARF）都是使用在其中的会议记录播放器。\n多款Cisco产品中的WRF Player和ARF Player存在远程代码执行漏洞。远程攻击者可借助带有恶意ARF或WRF文件的邮件或URL，并诱使用户加载该文件利用该漏洞在目标用户系统上执行任意代码。以下产品和版本受到影响：Cisco WebEx Business Suite (WBS30) client builds T30.20之前的版本；WebEx Business Suite (WBS31) client builds T31.14.1之前的版本；WebEx Business Suite (WBS32) client builds T32.2之前的版本；WebEx Meetings with client builds prior to T31.14之前的版本；WebEx Meeting Server builds 2.7MR3之前的版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:securitytracker.com\n链接:https://securitytracker.com/id/1039895\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Cisco产品WebEx Recording Format Player和Advanced Recording Format Player 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1142",
+      "cveId": " CVE-2017-12369\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCisco WebEx Business Suite（WBS30）client等都是美国思科（Cisco）公司的视频会议解决方案的客户端软件。WebEx Recording Format Player（WRF）和Advanced Recording Format Player（ARF）都是使用在其中的会议记录播放器。\n多款Cisco产品中的WRF Player和ARF Player存在安全漏洞。远程攻击者可借助带有恶意ARF或WRF文件的邮件或URL，并诱使用户加载该文件利用该漏洞在目标用户系统上执行任意代码。以下产品和版本受到影响：Cisco WebEx Business Suite (WBS30) client builds T30.20之前的版本；WebEx Business Suite (WBS31) client builds T31.14.1之前的版本；WebEx Business Suite (WBS32) client builds T32.2之前的版本；WebEx Meetings with client builds prior to T31.14之前的版本；WebEx Meeting Server builds 2.7MR3之前的版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:securitytracker.com\n链接:https://securitytracker.com/id/1039895\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1150",
+      "cveId": " CVE-2017-15341\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei AR3200等都是中国华为（Huawei）公司的产品。Huawei AR3200是一款AR3200系列企业级路由器。TE40是一款支持智能语音呼叫和Wi-Fi无线互联的一体化高清视频会议终端设备。\n多款Huawei产品中存在拒绝服务漏洞，该漏洞源于程序没有正确的加密X.509证书。远程攻击者可通过发送特制的X.509证书利用该漏洞造成拒绝服务。以下产品和版本受到影响：Huawei AR3200 V200R008C20版本，V200R008C30版本；TE40 V600R006C00版本；TE50 V600R006C00版本；TE60 V600R006C00版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-01-cert-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-cert-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei Mate 9 Pro 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1152",
+      "cveId": " CVE-2017-15347\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei Mate 9 Pro是中国华为（Huawei）公司的一款智能手机。\nHuawei Mate 9 Pro LON-AL00BC00B235之前的版本中存在释放后重用漏洞。本地攻击者可通过诱使用户安装恶意的应用程序利用该漏洞造成拒绝服务（手机崩溃）。 \n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-01-phone-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-phone-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "IBM Tivoli Workload Scheduler Distributed OpenSSL command line utility 信息泄露漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1123",
+      "cveId": " CVE-2017-1716\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-29\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-29\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t信息泄露\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t本地\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tIBM Tivoli Workload Scheduler Distributed是美国IBM公司的一套企业任务调度软件。该软件能够自动化、有计划的控制工作负载。OpenSSL command line utility是其中的一个命令行实用程序。\nIBM Tivoli Workload Scheduler Distributed 8.6.0 FP04及之前的版本、9.1.0 FP02及之前的版本和9.2.0 FP02及之前的版本中的OpenSSL command line utility存在信息泄露漏洞，该漏洞源于不正确的安全配置。本地攻击者可利用该漏洞获取敏感信息。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www-01.ibm.com/support/docview.wss?uid=swg22010947\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:BID\n链接:http://www.securityfocus.com/bid/101974\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1125",
+      "cveId": " CVE-2017-15353\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t华为DP300等都是中国华为（Huawei）公司的产品。DP300是一款视频会议终端。ViewPoint是一款会议电视系统的多点控制单元。\n多款Huawei产品中存在安全漏洞，该漏洞源于程序没有充分的校验输入。攻击者可通过控制对端设备并向受影响设备发送特制的H323数据包。攻击者可利用该漏洞造成服务异常。以下产品和版本受到影响：DP300 V500R002C00版本；RP200 V500R002C00版本，V600R006C00版本；RSE6500 V500R002C00版本；TE30 V100R001C02版本，V100R001C10版本，V500R002C00版本，V600R006C00版本；TE40 V500R002C00版本，V600R006C00版本；TE50 V500R002C00版本，V600R006C00版本；TE60  V100R001C01版本，V100R001C10版本，V500R002C00版本，V600R006C00版本；TX50 V500R002C00版本，V600R006C00版本；VP9660  V500R002C00版本，V500R002C10版本；ViewPoint 8660 V100R008C03版本；ViewPoint 9030 V100R011C02版本，V100R011C03版本；Viewpoint 8660 V100R008C03版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171115-01-h323-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171115-01-h323-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品访问控制错误漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1126",
+      "cveId": " CVE-2017-15352\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t访问控制错误\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei OceanStor 2800 V3等都是中国华为（Huawei）公司的面向中高端存储的存储系统。\n多款Huawei产品中存在访问控制错误漏洞，该漏洞源于程序没有正确的限制资源的访问权限。攻击者可利用该漏洞查询信息或造成服务异常。以下产品和版本受到影响：Huawei OceanStor 2800 V3 V300R003C00版本，V300R003C20版本；OceanStor 5300 V3 V300R003C00版本，V300R003C10版本，V300R003C20版本；OceanStor 5500 V3 V300R003C00版本，V300R003C10版本，V300R003C20版本；OceanStor 5600 V3 V300R003C00版本，V300R003C10版本，V300R003C20版本；OceanStor 5800 V3 V300R003C00版本，V300R003C10版本，V300R003C20版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171122-01-oceanstor-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171122-01-oceanstor-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1151",
+      "cveId": " CVE-2017-8164\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Professor Zhiyun Q...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei EVA-AL10等都是中国华为（Huawei）公司的智能手机产品。\n多款Huawei产品中存在拒绝服务漏洞。攻击者可通过诱使用户安装恶意的应用程序利用该漏洞造成相机应用程序无法使用。以下产品和版本受到影响：Huawei EVA-AL10 EVA-AL10C00B198版本；EVA-CL00 EVA-CL00C92B198版本；EVA-DL00 EVA-DL00C17B198版本；EVA-L09 EVA-L09C02B143版本，EVA-L09C09B150版本，EVA-L09C109B196版本，EVA-L09C113B150版本，EVA-L09C150B192版本，EVA-L09C178B161版本等；EVA-L19 EVA-L19C10B190版本，EVA-L19C185B220版本，EVA-L19C20B160版本，EVA-L19C432B210版本，EVA-L19C636B190版本；EVA-L29 EVA-L29C20B160版本，EVA-L29C636B191版本；EVA-TL00 EVA-TL00C01B198版本；VIE-L09 VIE-L09C02B131版本，VIE-L09C109B181版本，VIE-L09C113B170版本，VIE-L09C150B170版本，VIE-L09C25B120版本，VIE-L09C40B181版本，VIE-L09C432B181版本，VIE-L09C55B170版本，VIE-L09C605B131版本，VIE-L09ITAC555B130版本；VIE-L29 VIE-L29C10B170版本，VIE-L29C185B181版本，VIE-L29C605B131版本，VIE-L29C636B202版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-01-smartphone-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-smartphone-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Cisco产品WebEx Recording Format Player和Advanced Recording Format Player 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1145",
+      "cveId": " CVE-2017-12372\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCisco WebEx Business Suite（WBS30）client等都是美国思科（Cisco）公司的视频会议解决方案的客户端软件。WebEx Recording Format Player（WRF）和Advanced Recording Format Player（ARF）都是使用在其中的会议记录播放器。\n多款Cisco产品中的WRF Player和ARF Player存在远程代码执行漏洞。远程攻击者可借助带有恶意ARF或WRF文件的邮件或URL，并诱使用户加载该文件利用该漏洞在目标用户系统上执行任意代码。以下产品和版本受到影响：Cisco WebEx Business Suite (WBS30) client builds T30.20之前的版本；WebEx Business Suite (WBS31) client builds T31.14.1之前的版本；WebEx Business Suite (WBS32) client builds T32.2之前的版本；WebEx Meetings with client builds prior to T31.14之前的版本；WebEx Meeting Server builds 2.7MR3之前的版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:securitytracker.com\n链接:https://securitytracker.com/id/1039895\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品缓冲区错误漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1148",
+      "cveId": " CVE-2017-15331\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t缓冲区错误\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei AR120-S等都是中国华为（Huawei）公司的路由器产品。\n多款Huawei产品中存在安全漏洞，该漏洞源于程序没有充分的验证数据包。远程攻击者可利用该漏洞造成拒绝服务（越边界读取和进程重启）。以下产品和版本受到影响：Huawei AR120-S V200R006C10版本，V200R007C00版本，V200R008C20版本，V200R008C30版本；AR1200 V200R006C10版本，V200R006C13版本，V200R007C00版本，V200R007C01版本，V200R007C02版本，V200R008C20版本，V200R008C30版本；AR1200-S V200R006C10版本，V200R007C00版本，V200R008C20版本，V200R008C30版本；AR150 V200R006C10版本，V200R007C00版本，V200R007C01版本，V200R007C02版本，V200R008C20版本，V200R008C30版本；AR150-S等。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-01-h323-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-h323-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "多款Huawei产品H323协议安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1149",
+      "cveId": " CVE-2017-15332\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei AR120-S等都是中国华为（Huawei）公司的路由器。H323 protocol是其中的一个音视频协议。\n多款Huawei产品中的H323协议存在内存泄露漏洞，该漏洞源于程序没有充分的验证数据包。远程攻击者可通过发送特制的数据包利用该漏洞造成拒绝服务。以下产品和版本受到影响：Huawei AR120-S V200R006C10版本，V200R007C00版本，V200R008C20版本，V200R008C30版本；AR1200 V200R006C10版本，V200R006C13版本，V200R007C00版本，V200R007C01版本，V200R007C02版本，V200R008C20版本，V200R008C30版本；AR1200-S V200R006C10版本，V200R007C00版本，V200R008C20版本，V200R008C30版本；AR150 V200R006C10版本，V200R007C00版本，V200R007C01版本，V200R007C02版本，V200R008C20版本，V200R008C30版本；AR150-S等。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-01-h323-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-01-h323-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei AR3200 缓冲区错误漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1147",
+      "cveId": " CVE-2017-15344\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t缓冲区错误\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei AR3200是中国华为（Huawei）公司的一款AR3200系列企业路由器产品。\nHuawei AR3200中存在缓冲区溢出漏洞，该漏洞源于程序没有充分的验证SCTP消息中的字段。远程攻击者可通过向设备发送特制的SCTP消息利用该漏洞造成拒绝服务（系统重启）。以下版本受到影响：Huawei AR3200 V200R006C10版本，V200R006C11版本，V200R007C00版本，V200R007C01版本，V200R007C02版本，V200R008C00版本，V200R008C10版本，V200R008C20版本，V200R008C30版本。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171129-02-sctp-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171129-02-sctp-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei UMA SQL注入漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1128",
+      "cveId": " CVE-2017-15329\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\tSQL注入\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "Jianfeng.Li of DBA...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei UMA是中国华为（Huawei）公司的一套IT核心资源运维管理与安全审计平台。该平台通过对各种IT资源的帐号、认证、授权和审计的集中管理和控制，可满足用户IT运维管理和IT内控外审的需求。\nHuawei UMA V200R001C00版本中存在SQL注入漏洞，该漏洞源于程序没有充分的对HTTP请求执行输入验证。远程攻击者可通过登录系统并发送带有恶意SQL语句的HTTP请求利用该漏洞执行任意的SQL查询。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171116-01-uma-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171116-01-uma-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "McAfee Network Security Manager 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1124",
+      "cveId": " CVE-2016-8029\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-29\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-29\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "Tomasz Klicki from...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tMcAfee Network Security Manager（NSM）是美国迈克菲（McAfee）公司的一套能够实时监控整个网络中已部署的迈克菲入侵防护系统的网络安全解决方案。\nMcAfee NSM 8.2.7.71.1之前的版本中存在安全漏洞。远程攻击者可利用该漏洞获取提升的权限。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://kc.mcafee.com/corporate/index?page=content&id=SB10210\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:BID\n链接:http://www.securityfocus.com/bid/101970\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei Baggio-L03A 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1129",
+      "cveId": " CVE-2017-15322\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei Baggio-L03A是中国华为（Huawei）公司的一款智能平板电脑设备。\nHuawei Baggio-L03A BGO-L03C158B003CUSTC158D001版本和BGO-L03C331B009CUSTC331D001版本中存在拒绝服务漏洞，该漏洞源于程序没有充分的验证输入。攻击者可通过发送特制的NFC消息利用该漏洞造成拒绝服务（服务崩溃）。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171108-01-nfc-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171108-01-nfc-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei FusionSphere OpenStack 信息泄露漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1130",
+      "cveId": " CVE-2017-15321\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t信息泄露\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei FusionSphere OpenStack是中国华为（Huawei）公司的一套FusionSphere（云操作系统）在ICT场景中的云平台软件。\nHuawei FusionSphere OpenStack V100R006C000SPC102 (NFV)版本中存在信息泄露漏洞，该漏洞源于程序默认使用较低版本的传输协议。攻击者可通过监听目标设备传输的报文利用该漏洞获取传输的内容。 \n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171108-01-fusionsphere-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171108-01-fusionsphere-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "WordPress amtyThumb amty-thumb-recent-post插件跨站脚本漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1132",
+      "cveId": " CVE-2017-17059\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t跨站脚本\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t远程\n\t\t\t\t\t\t\t",
+      "source": "",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tWordPress是WordPress软件基金会的一套使用PHP语言开发的博客平台，该平台支持在PHP和MySQL的服务器上架设个人博客网站。amtyThumb amty-thumb-recent-post（又名amtyThumb posts or wp-thumb-post）plugin是使用在其中的一个图像提取插件。\nWordPress amtyThumb amty-thumb-recent-post插件8.1.3版本中存在跨站脚本漏洞，该漏洞源于程序没有充分的过滤用户提交的数据。远程攻击者可通过向amtyThumbPostsAdminPg.php文件发送查询字符串利用该漏洞在浏览器中执行任意代码。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商暂未发布修复措施解决此安全问题，建议使用此软件的用户随时关注厂商主页或参考网址以获取解决办法：\nhttps://wordpress.org/plugins/amty-thumb-recent-post\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:MISC\n链接:https://github.com/NaturalIntelligence/wp-thumb-post/issues/1\n\n来源:MISC\n链接:https://packetstormsecurity.com/files/145044/WordPress-amtyThumb-8.1.3-Cross-Site-Scripting.html\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei Honor V9 play 安全漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1127",
+      "cveId": " CVE-2017-15351\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t资料不足\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Huawei internal te...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei Honor V9 play是中国华为（Huawei）公司的一款智能手机产品。\nHuawei Honor V9 play Jimmy-AL00AC00B135之前的版本中的Find Phone功能存在身份验证绕过漏洞，该漏洞源于没有正确的实现身份验证。攻击者可利用该漏洞绕过Find Phone功能，从而正常使用手机。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171122-01-smartphone-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171122-01-smartphone-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    },
+    {
+      "title": "Huawei Mate 9 信息泄露漏洞",
+      "cnnvdId": "CNNVD编号：CNNVD-201711-1131",
+      "cveId": " CVE-2017-8165\n\t\t\t\t\t\t",
+      "publishTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "updateTime": "\n\t\t\t\t\t\t\t\t2017-11-30\n\t\t\t\t\t\t\t",
+      "vulLevel": "  \n\t\t\t\t\t\t\t",
+      "holeType": " \n\t\t\t\t\t\t\t信息泄露\n\t\t\t\t\t\t",
+      "vulType": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "manufacturer": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "source": "Professor Zhiyun Q...",
+      "desc": "\n\t\t\t\n\t\t\t  漏洞简介\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tHuawei Mate 9是中国华为（Huawei）公司的一款智能手机。\nHuawei Mate 9 MHA-AL00BC00B233版本中的CMA机制存在信息泄露漏洞。攻击者可利用该漏洞获取敏感信息。\n\t\t\t\n\t\t",
+      "notice": "\n\t\t\t\n\t\t\t  漏洞公告\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttp://www.huawei.com/cn/psirt/security-advisories/huawei-sa-20171117-01-smartphone-cn\n\t\t\t\n\t\t",
+      "ref": "\n\t\t\t\n\t\t\t  参考网址\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t来源:www.huawei.com\n链接:http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20171117-01-smartphone-en\n\t\t\t\n\t\t",
+      "entity": "\n\t\t\t\n\t\t\t    \n\t\t\t\t\n\t\t\t          暂无\n\t\t\t   \n\t\t   \n\t        更多>>\n\t\t   \n\t\t",
+      "bugFix": "\n\t\t          暂无\n\t\t   "
+    }
+  ]
 }
