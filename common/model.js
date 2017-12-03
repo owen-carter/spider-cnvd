@@ -7,7 +7,7 @@ const mongodbClient = require('./mongo');
 const Schema = mongoose.Schema;
 
 const HoleSchema = new Schema({
-    title: {type: String, required: true},
+    title: {type: String, required: false},
     cnnvdId: {type: String, required: false},
     cveId: {type: String, required: false},
     publishTime: {type: String, required: false},
