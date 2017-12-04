@@ -2,7 +2,11 @@
  * db
  */
 const mongoose = require('mongoose');
-const logger = require('./log');
+const logger   = require('./log');
+
+
+mongoose.Promise = global.Promise;
+
 
 const mongodbClient = mongoose.createConnection(`mongodb://localhost:27017/cnnvd`);
 
